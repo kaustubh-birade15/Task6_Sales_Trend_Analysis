@@ -78,12 +78,13 @@ LIMIT 3;
 ```
 
 ## 📈 Summary of Findings
--Revenue and orders vary significantly across months.
--Identified **top 3 months** with highest revenue.
--Peaks may indicate **seasonal trends** or promotional events.
--Useful for **inventory planning** and sales forecasting.
+- Revenue and orders vary significantly across months.
+- Identified **top 3 months** with highest revenue.
+- Peaks may indicate **seasonal trends** or promotional events.
+- Useful for **inventory planning** and **sales forecasting**.
 
 ## 📁 Repository Contents
--`task6_sales_trend.sql` → SQL script with both queries.
--`monthly_revenue_orders.csv` → Exported results for monthly trend.
--`top_3_months_sales.csv` → Exported results for top 3 months.
+- `task6_sales_trend.sql` → SQL script with both queries.
+- `monthly_revenue_orders.csv` → Exported results for monthly trend.
+- `top_3_months_sales.csv` → Exported results for top 3 months.
+
